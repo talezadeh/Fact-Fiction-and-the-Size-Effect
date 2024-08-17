@@ -1,0 +1,14 @@
+Paper title: Fact, Fiction, and the Size Effect
+Authors: Ron Alquist, Ronen Israel, and Tobias Moskowitz
+Link to download paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3177539
+
+Link to download data:
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/6_Portfolios_2x3_CSV.zip
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_ME_CSV.zip
+https://www.aqr.com/Insights/Datasets/Betting-Against-Beta-Equity-Factors-Monthly
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_CSV.zip
+http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip
+
+
+F-F_Research_Data_Factors_CSV
