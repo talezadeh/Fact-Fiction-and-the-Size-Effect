@@ -9,6 +9,3 @@ http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_
 https://www.aqr.com/Insights/Datasets/Betting-Against-Beta-Equity-Factors-Monthly
 http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_CSV.zip
 http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip
-
-
-F-F_Research_Data_Factors_CSV
